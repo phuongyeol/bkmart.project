@@ -1,0 +1,29 @@
+.pagination{
+	margin: 0px;
+	float: right;
+}
+#myTable_filter{
+	float: right
+}
+
+.input-sm {
+	padding: 0px;
+}
+.input-sm .btn{
+	display: none;
+	width: 0px;
+}
+.content-wrapper{
+	background-color: white;
+	padding-top: 20px;
+}
+
+.form-group .form-control{
+	border-radius: 5px;
+	border: 1px solid skyblue;
+	padding-left: 12px;
+}
+
+.btn.dropdown-toggle.btn-default{
+	display: none;
+}

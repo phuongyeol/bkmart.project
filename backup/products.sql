@@ -1,0 +1,16 @@
+INSERT INTO `products` VALUES (2, 'Machine learning co ban', 'hinh-nen-song-bien-dep-nhat-1.jpg', 150, 450000, 4, NULL, '2018-6-15 19:22:01');
+INSERT INTO `products` VALUES (5, 'Macbook Air', '3.jpg', 9, 36000000, 3, '2018-3-9 23:14:58', '2018-6-15 18:18:03');
+INSERT INTO `products` VALUES (6, 'ASUS 2018', '6.jpg', 10, 19800000, 3, '2018-3-9 23:15:44', '2018-6-15 17:53:47');
+INSERT INTO `products` VALUES (7, 'Macbook Air 2017', '9.jpg', 20, 22000000, 3, '2018-6-14 22:56:15', '2018-6-15 17:53:57');
+INSERT INTO `products` VALUES (8, 'Thinkpad T440s (LikeNew) ', '10.jpg', 10, 20000000, 3, '2018-6-15 17:47:48', NULL);
+INSERT INTO `products` VALUES (9, 'Thinkpad T460s (LikeNew) ', '7.jpg', 18, 30000000, 3, '2018-6-15 17:49:37', '2018-6-15 17:52:24');
+INSERT INTO `products` VALUES (10, 'iPhone X 256GB Sliver', 'iphone-x-256gb-silver-400x460.png', 2, 27990000, 5, '2018-6-15 17:56:23', '2018-6-15 19:21:27');
+INSERT INTO `products` VALUES (11, 'Laptop Lenovo IdeaPad 320 15IKBN i7 8550U/4GB/1TB/2GB MX150/Win10/(81BG00E1VN)', 'lenovo-ideapad-320-15ikbn-i7-8550u-81bg00e1vn-dai-dien-450x300.jpg', 10, 17000000, 3, '2018-6-15 17:59:37', '2018-6-15 18:00:56');
+INSERT INTO `products` VALUES (12, 'Laptop Lenovo Yoga 520 14IKBR i5 8250U/4GB/1TB/Win10/(81C80088VN)', 'lenovo-yoga-520-14ikbr-i5-8250u-4gb-1tb-win10-81c-450-450x300.jpg', 4, 15490000, 3, '2018-6-15 18:01:31', NULL);
+INSERT INTO `products` VALUES (13, 'iPhone X 256GB Gray', 'iphone-x-256gb-gray-400x460-400x460.png', 2, 34790000, 3, '2018-6-15 18:02:07', '2018-6-15 18:02:18');
+INSERT INTO `products` VALUES (14, ' iPhone X 64GB Silver', 'iphone-x-256gb-silver-400x460.png', 10, 29990000, 5, '2018-6-15 18:03:25', NULL);
+INSERT INTO `products` VALUES (15, 'iPhone 8 Plus Red 256GB (Đỏ)', 'iphone-8-plus-do-256gb-400x460.png', 20, 28790000, 5, '2018-6-15 18:04:07', NULL);
+INSERT INTO `products` VALUES (16, 'Samsung Galaxy S9+ 128GB', 'samsung-galaxy-s9-plus-128gb-400x460.png', 200, 24680000, 5, '2018-6-15 18:04:50', '2018-6-15 19:21:19');
+INSERT INTO `products` VALUES (17, 'Laptop Asus S510UA i5 8250U/4GB/1TB/Win10/(BQ414T)', 'asus-s510ua-i5-8250u-bq414t-dai-dien-450-600x600.jpg', 101, 16290000, 5, '2018-6-15 18:05:53', '2018-6-15 19:21:42');
+INSERT INTO `products` VALUES (18, 'Laptop Lenovo IdeaPad 320 15IKBN i3 7130U/4GB/128GB/Win10/(80XL03SNVN)', 'lenovo-ideapad-320-15ikbn-i3-7130u-80xl03snvn-dai-dien-450-600x600.jpg', 6, 15000000, 3, '2018-6-15 18:06:57', NULL);
+INSERT INTO `products` VALUES (19, 'Laptop Apple Macbook Air MQD32SA/A i5 1.8GHz/8GB/128GB (2017)', '1.jpg', 2, 19990000, 3, '2018-6-15 18:07:48', NULL);

@@ -1,0 +1,11 @@
+INSERT INTO `staffs` VALUES (1, 'QL01', 'Trần Thị Phương', 1, '1489028489531s.jpg', '0972498820', '20156275@student.hust.edu.vn', '202cb962ac59075b964b07152d234b70', 'Ha Noi', 1, '2018-2-22 13:10:20', '2018-6-15 19:45:05');
+INSERT INTO `staffs` VALUES (3, '', 'Linh Chi', 0, 'hinh-nen-song-bien-dep-nhat-8.jpg', '012564621233', 'linhchi@gmail.com', 'd41d8cd98f00b204e9800998ecf8427e', 'HN', 3, '2018-2-23 09:57:15', '2018-2-23 12:49:23');
+INSERT INTO `staffs` VALUES (4, 'TN05', 'Khanh Van', 1, 'shapes_shape_line_points_92772_1920x1080.jpg', '0864789658', 'khanhvan@gmail.com', 'c4ca4238a0b923820dcc509a6f75849b', 'Ha Noi', 5, '2018-2-23 10:02:48', '2018-3-4 21:45:06');
+INSERT INTO `staffs` VALUES (5, '', 'Triệu Viễn', 1, '34409.jpg', '0123456789', 'trieuvien@hamduong.com', '202cb962ac59075b964b07152d234b70', 'Hàm Dương', 5, '2018-2-23 10:07:58', '2018-3-9 23:18:30');
+INSERT INTO `staffs` VALUES (6, 'SC01', 'Tùng Bách', 1, '', '0964561234', 'tungbach@gmail.com', '57ab1d8a98df3e3d0a6bd8bec5a68761', 'Hà Nội', 4, '2018-3-3 21:20:09', '2018-3-9 23:45:51');
+INSERT INTO `staffs` VALUES (7, '', 'Tinh Van', 1, '', '0886869669', 'tinhvan@gmail.com', 'ab4ade48e3c502e707ab78bd03dff204', 'Ham Dan', 2, '2018-3-3 23:01:04', NULL);
+INSERT INTO `staffs` VALUES (8, 'TK03', 'Tuong Linh', 0, '', '946499595959', 'tuonglinh@gmail.com', '896300e645ee1c570562036654219c74', '123', 2, '2018-3-3 23:12:59', '2018-3-3 23:45:12');
+INSERT INTO `staffs` VALUES (9, 'QL02', 'Da Hoa', 1, 'ho-guom-ruc-mau-co-do-sau-chien-thang-cua-u23-viet-nam.jpg', '0868686868', 'dahoa@gmail.com', '71f69c9d1bcec34048b43d82eafee47b', 'Thien Toc', 5, '2018-3-3 23:34:32', '2018-3-4 17:47:04');
+INSERT INTO `staffs` VALUES (10, 'QL02', 'Tử Đằng', 1, 'hinh-nen-song-bien-dep-nhat-5.jpg', '0968456892', 'tudang@gmail.com', '78ea12270b511aebed0504b8b44491e9', 'TP. HCM', 5, '2018-3-4 17:21:39', '2018-3-10 18:59:40');
+INSERT INTO `staffs` VALUES (11, 'AD02', 'Trần Thị Phương', 1, 'IMG_20171207_2.jpg', '0973653820', 'phuong.tt.hust@gmail.com', '202cb962ac59075b964b07152d234b70', 'Bắc Giang', 1, '2018-6-15 16:02:02', NULL);
+INSERT INTO `staffs` VALUES (26, 'AD01', 'Phương YeolYeol', 1, 'IMG_20160527_152244.jpg', '0123456785', 'phuongtran99.k60@gmail.com', '202cb962ac59075b964b07152d234b70', 'Hải Phòng', 1, '2018-6-15 19:47:48', NULL);

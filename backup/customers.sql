@@ -1,0 +1,12 @@
+INSERT INTO `customers` VALUES (1, 'KH04', 'Vũ Hiền Lương', '0986485123', 'abc@gmail.com', 'Hàn Dương', '2018-3-4 22:02:53', '2018-6-15 16:59:15');
+INSERT INTO `customers` VALUES (3, 'KH03', 'Tử Đằng', '0965835699', 'tudang@honam.com', 'Hồ Nam', '2018-3-8 22:56:51', NULL);
+INSERT INTO `customers` VALUES (5, 'KH05', 'Nguyen Trung Anh', '0964856999', 'anhngtrung@gmail.com', 'Hàm Đan', '2018-3-9 06:08:51', NULL);
+INSERT INTO `customers` VALUES (6, 'KH06', 'ABC', '0313131313', 'abc@gmail', 'ABC', '2018-3-9 11:55:25', NULL);
+INSERT INTO `customers` VALUES (12, 'KH09', 'Triệu Viễn', '3475467956', 'trieuvien@hamduong.com', 'Hàm Dương', '2018-3-9 23:20:34', NULL);
+INSERT INTO `customers` VALUES (13, 'KH12', 'Tương Linh', '', 'tuonglinh@gmail.com', 'HN', '2018-3-9 23:26:46', NULL);
+INSERT INTO `customers` VALUES (14, 'KH02', 'Mỹ Linh', '0894899499', 'mylinh@gmail.com', 'HN', '2018-3-10 19:03:44', '2018-6-15 16:59:43');
+INSERT INTO `customers` VALUES (15, 'KH01', 'Phương YeolYeol', '0123456789', 'phuongyy@gmail.com', 'Hà Nội', '2018-3-10 19:13:53', '2018-6-15 16:58:25');
+INSERT INTO `customers` VALUES (16, 'KH00', 'Phương Trần', '0973653820', 'phuongtran99.k60@gmail.com', 'Hải Phòng', '2018-6-13 13:39:02', '2018-6-15 16:59:24');
+INSERT INTO `customers` VALUES (17, 'KH08', 'Lê Thị Hoa', '092323782321', 'hoalt@gmail.com', 'Hà Nội', '2018-6-15 17:03:53', NULL);
+INSERT INTO `customers` VALUES (19, 'KH14', 'Trần Bá Long', '0974680490', 'tranbalong@gmail.com', 'Yên Dũng, Bắc Giang', '2018-6-15 18:28:55', NULL);
+INSERT INTO `customers` VALUES (20, 'KH14', 'Trần Thị Phương', '0973653820', 'phuong.tt.hust@gmail.com', 'Bắc Ninh', '2018-6-15 19:13:37', NULL);
